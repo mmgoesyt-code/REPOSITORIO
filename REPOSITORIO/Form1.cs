@@ -21,5 +21,10 @@ namespace REPOSITORIO
         {
             label1.Text = "bemvindo";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
